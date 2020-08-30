@@ -5,3 +5,5 @@ fair_convex.py: covariance based model
 run as python3 fair_convex.py
 
 in data_adult.py - give adult.csv as input. 
+in compute cost function change the values of lambda which are multipliers to the cost function.
+You may change learning rate to get the best value. 
