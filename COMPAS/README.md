@@ -1,4 +1,5 @@
-provide the source datafile in 
+provide the source datafile in data_preprocessed.py
 
 1. compas.py - covariance based model
-run 
+run as:
+python3 compas.py
